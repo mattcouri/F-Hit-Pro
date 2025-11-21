@@ -1,0 +1,37 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "close": "Fechar",
+    "confirm": "Confirmar",
+    "back": "Voltar",
+    "next": "Próximo",
+    "finish": "Concluir"
+  },
+  "nav": {
+    "home": "HOME",
+    "ranking": "RANKING",
+    "myMoney": "MEU DINHEIRO",
+    "tools": "FERRAMENTAS",
+    "academy": "ACADEMY",
+    "config": "CONFIG"
+  },
+  "auth": {
+    "login": "Entrar",
+    "email": "E-mail",
+    "password": "Senha",
+    "matricula": "Matrícula",
+    "firstAccess": "Primeiro Acesso? Clique Aqui para Criar Conta",
+    "mentorAccess": "Acesso Mentor/Empresa",
+    "forgotPassword": "Esqueceu a senha?"
+  },
+  "onboarding": {
+    "welcome": "Bem-vindo ao F-HIT Pro",
+    "step": "Passo {{current}} de {{total}}",
+    "congratulations": "Parabéns!",
+    "surveyIntro": "Parabéns! Este é o primeiro passo para sua liberdade financeira. Agora que conhecemos um pouco sobre você, vamos entender sua situação atual com 10 perguntas rápidas. Não há respostas certas ou erradas - responda com honestidade para aproveitar ao máximo esta ferramenta construída para você e sua saúde financeira."
+  }
+}
